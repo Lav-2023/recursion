@@ -13,10 +13,10 @@ JavaScript files can be run directly from the command line using the node comman
 
     First up create a file and tackle the fibonacci sequence:
 
-    1. Using iteration, write a function **fibs** which takes a number and returns an array containing that many numbers from the Fibonacci sequence.
+    1. Using iteration, write a function fibs which takes a number and returns an array containing that many numbers from the Fibonacci sequence.
        Using an example input of 8, this function should return the array [0, 1, 1, 2, 3, 5, 8, 13].
  
-    2. Now write another function **fibsRec** which solves the same problem recursively.
+    2. Now write another function fibsRec which solves the same problem recursively.
     
     3. Test both versions of your functions by passing in various lengths as arguments.      
 
